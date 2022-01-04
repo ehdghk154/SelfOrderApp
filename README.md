@@ -1,5 +1,5 @@
 # SelfOrderApp
-It is an order app to try using the "Intent" myself.
+**Intent를 활용한 주문 어플을 만들어 보았습니다.**
 # 주문 어플 - Intent 활용
 
 !<img src="https://user-images.githubusercontent.com/50476562/135126047-4c191af0-8b1e-482d-9b63-3985d3dd74c8.png" width="261.8" height="464.8">
@@ -11,6 +11,4 @@ It is an order app to try using the "Intent" myself.
 ![취소버튼2](https://user-images.githubusercontent.com/50476562/135126059-9ea27f4c-6044-4d43-98aa-2415bec1b0ba.png)
 ---
 이 프로그램은 강의에서 배웠던 Intent를 써보기 위해 
-중간 프로젝트로 Intent를 활용할 수 있는 프로젝트를 진행한 것.
-
-This program is a project to utilize the intents learned in lectures.
+중간 프로젝트로 Intent를 활용할 수 있는 프로젝트를 진행한 것입니다.
